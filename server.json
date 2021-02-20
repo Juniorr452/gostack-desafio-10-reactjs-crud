@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://st.depositphotos.com/1005682/2476/i/600/depositphotos_24762569-stock-photo-fast-food-hamburger-hot-dog.jpg",
+      "name": "Food",
+      "price": "299669,00",
+      "description": "asdopsadposapdoa",
+      "id": 4,
+      "available": true
     }
   ]
 }
